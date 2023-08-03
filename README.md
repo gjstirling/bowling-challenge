@@ -1,11 +1,31 @@
 
-Bowling Challenge
+Bowling Challenge 
 =================
+# JS Bowling Challenge - Makers
 
-* Feel free to use google, your notes, books, etc. but work on your own
-* If you refer to the solution of another coach or student, please put a link to that in your README
-* If you have a partial solution, **still check in a partial solution**
-* You must submit a pull request to this repo with your code by 9am Monday week
+## Technologies used: 
+Javascript (node) and Jest. 
+
+## How to use
+
+Clone via terminal with the below command
+```bash
+git clone git@github.com:jgjstirling/bowling-challenge.git
+```
+
+Move into the directory "bowling-challenge" then run the below command to install dependencies
+
+```bash
+npm ci
+```
+
+This is similar to `npm install` but runs from `package-lock.json` so we ensure you are using the exact dependencies the project was built on.
+
+Run tests with
+
+```bash
+npm test
+```
 
 ## The Task
 
